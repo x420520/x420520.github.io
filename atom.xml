@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://www.x420520.com/</id>
+    <id>https://www.x420520.com/</id>
     <title>世界の果ての雲</title>
-    <updated>2019-08-14T10:34:54.435Z</updated>
+    <updated>2019-08-14T10:39:00.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://www.x420520.com/"/>
-    <link rel="self" href="http://www.x420520.com//atom.xml"/>
+    <link rel="alternate" href="https://www.x420520.com/"/>
+    <link rel="self" href="https://www.x420520.com//atom.xml"/>
     <subtitle>世界の果ての雲</subtitle>
-    <logo>http://www.x420520.com//images/avatar.png</logo>
-    <icon>http://www.x420520.com//favicon.ico</icon>
+    <logo>https://www.x420520.com//images/avatar.png</logo>
+    <icon>https://www.x420520.com//favicon.ico</icon>
     <rights>All rights reserved 2019, 世界の果ての雲</rights>
     <entry>
         <title type="html"><![CDATA[Hello Guys]]></title>
-        <id>http://www.x420520.com//post/Heelo Guys</id>
-        <link href="http://www.x420520.com//post/Heelo Guys">
+        <id>https://www.x420520.com//post/Heelo Guys</id>
+        <link href="https://www.x420520.com//post/Heelo Guys">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>👏  欢迎来到我的小站<br>
