@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://x420520.github.io/generated/sitemap.xml
